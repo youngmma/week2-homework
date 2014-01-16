@@ -4,11 +4,9 @@ Homework Instructions
 **DUE: Monday, January 20, 11:59PM**
 
 Fork this repository to your github account and clone it down to your local computer. Refer to the week 1 homework for step-by-step
-instructions on forking and cloning here: https://github.com/mpcs52553/html-css/blob/master/README.md
+instructions on forking and cloning <a href='https://github.com/mpcs52553/html-css/blob/master/README.md'>here</a>.
 
-#TODO Refer to week 2 repository code
-#TODO add screenshots
-
+Refer to the <a href='https://github.com/mpcs52553/week2'>week 2 class repository</a> code for hints. 
 
 For this assignment, you will be editing the directions.rb, geolocate.rb and weather.rb files located in this repository. Each Ruby script should provide a user for input and return a specific output. Your a Ruby scripts should do the following: 
 
@@ -21,6 +19,8 @@ Use the <a
 href='https://developers.google.com/maps/documentation/geocoding/'>Google Geocoding JSON API</a> to convert the address to latitude and longitude.
 
 Example:
+<br />
+<br />
 <img src='https://uchicago.s3.amazonaws.com/geolocate.png'>
 
 
@@ -35,6 +35,8 @@ href='https://developers.google.com/maps/documentation/directions/'>Google
 Directions JSON API</a> to retrieve travel data.
 
 Example:
+<br />
+<br />
 <img src='https://uchicago.s3.amazonaws.com/directions.png'>
 
 
@@ -46,6 +48,8 @@ Use the <a
 href='https://developers.google.com/maps/documentation/geocoding/'>OpenWeatherMap JSON API</a> to pull weather data based on the user input. 
 
 Example:
+<br />
+<br />
 <img src='https://uchicago.s3.amazonaws.com/weather.png'>
 
 # Grading
