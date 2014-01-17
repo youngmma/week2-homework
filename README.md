@@ -45,7 +45,7 @@ A user should be provided with an input prompt.
 A user can enter any address and the program should return the temperature in Fahrenheit.
 
 Use the <a
-href='https://developers.google.com/maps/documentation/geocoding/'>OpenWeatherMap JSON API</a> to pull weather data based on the user input. 
+href='http://openweathermap.org/API'>OpenWeatherMap JSON API</a> to pull weather data based on the user input. 
 
 Example:
 <br />
